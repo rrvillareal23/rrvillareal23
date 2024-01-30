@@ -2,11 +2,11 @@
 
 👨‍💻 Currently, I'm honing my skills in backend development using frameworks like node.js and Django, delving into artificial intelligence with tools like TensorFlow and PyTorch, and crafting mobile experiences with Swift 📱 and Dart/Flutter 🚀.
 
-🌐 My proficiency extends across a variety of languages, including C, CSS, C#, , Dart, HTML, JavaScript, Python, and Swift. I'm a firm believer in using the right tool for the job!
+🌐 My proficiency extends across a variety of languages, including C, CSS, C#, Dart, HTML, JavaScript, Python, and Swift. I'm a firm believer in using the right tool for the job!
 
 🛠️ Tech Stack:
 - **Backend**: Django, Express.JS, NestJS, .NET
-- **AI**: TensorFlow, PyTorch, H20.ai
+- **AI**: TensorFlow and PyTorch
 - **Mobile**: Swift 📱 | Dart/Flutter 🚀
 - **Frontend**: HTML, CSS, JavaScript
 - **Languages**: C, CSS, C#, Dart, HTML, JavaScript, Python
