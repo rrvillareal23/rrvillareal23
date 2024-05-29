@@ -5,7 +5,7 @@
 🌐 My proficiency extends across a variety of languages, including C, CSS, C#, Dart, HTML, JavaScript, Python, and Swift. I'm a firm believer in using the right tool for the job!
 
 🛠️ Tech Stack:
-- **Backend**: Django, Express.JS, NestJS, .NET
+- **Backend**: Django, Express.JS, NextJS, .NET
 - **AI**: TensorFlow and PyTorch
 - **Mobile**: Swift 📱 | Dart/Flutter 🚀
 - **Frontend**: HTML, CSS, JavaScript
