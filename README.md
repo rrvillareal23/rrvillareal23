@@ -6,10 +6,10 @@
 
 🛠️ Tech Stack:
 - **Backend**: Django, NextJS, ASP.NET
-- **AI**: TensorFlow and PyTorch
+- **AI**: TensorFlow (Python)
 - **Mobile**: Swift 📱 | Dart/Flutter 🚀
 - **Frontend**: CSS, HTML, JavaScript, React, TypeScript
-- **Languages**: C, CSS, C#, Dart, HTML, JavaScript, Python, TypeScript
+- **Languages**: C, CSS, C#, Dart, HTML, JavaScript, Python, SQL, TypeScript
 
 📚 Constantly learning and expanding my skill set every day. Eager to collaborate on exciting projects and contribute to the tech community.
 
