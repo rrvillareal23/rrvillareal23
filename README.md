@@ -4,6 +4,10 @@ I'm Robert (or Ricky), a passionate technology and software development enthusia
 
 👨‍🎓 Education
 
+I graduated Cum Laude from the University of Arizona with a Bachelor's Degree in Applied Computing, specializing in Artificial Intelligence. My academic journey equipped me with sharp analytical and technical skills, providing a solid foundation for innovative problem-solving in the tech space.
+
+👨‍🎓 Education
+
 I graduated Cum Laude from the University of Arizona with a Bachelor's Degree in Applied Computing, specializing in Artificial Intelligence. My academic journey sharpened my analytical and technical skills, laying a strong foundation for innovative problem-solving in the tech space.
 
 👨‍💻 About Me
