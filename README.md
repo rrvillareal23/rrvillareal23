@@ -16,7 +16,7 @@ I pride myself on adaptability and believe in using the right tools for the righ
 
 🛠️ Tech Stack
 
-- **Backend:** Django, Next.js, ASP.NET  
+- **Backend:** Django and Next.js 
 - **AI:** TensorFlow (Python)  
 - **Mobile Development:** Swift 📱   
 - **Frontend:** CSS, HTML, JavaScript, React, TypeScript  
