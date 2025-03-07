@@ -20,7 +20,7 @@ I pride myself on adaptability and believe in using the right tools for the righ
 - **AI:** TensorFlow (Python)  
 - **Mobile Development:** Swift 📱   
 - **Frontend:** CSS, HTML, JavaScript, React, TypeScript  
-- **Languages:** C, CSS, C#, HTML, JavaScript, Python, SQL, TypeScript  
+- **Languages:** C, CSS, C++, HTML, JavaScript, Python, SQL, TypeScript  
 
 📚 Continuous Learning
 
